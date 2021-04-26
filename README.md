@@ -18,7 +18,6 @@
   - ⚡ My favorite quote is:
   
       > The important thing is to not stop questioning. Curiosity has its own reason for existing.
-      <br />
 
 ## 🌱 I’m currently learning ... and working 🛠️ with
   - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red)
@@ -27,6 +26,9 @@
   - ![TypeScript](https://img.shields.io/badge/-TypeScript-purple) 
   - ![React](https://img.shields.io/badge/-React-ff69b4)
 
+<br />
+<br />
+<br />
 <br />
 
 Made with :purple_heart: by Maylla Rabay
