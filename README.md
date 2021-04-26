@@ -8,8 +8,8 @@
 <br />
 
 ## About me :dragon:
-  - :book: Full Stack Web Developer student @ <a href="https://www.cubos.academy/">Cubos Academy</a>  🚧 IN DEVELOPMENT 🚀🚧
-  - :book: Currently improving my development skills @ <a href="https://rocketseat.com.br/">Rocketseat</a>  🚧 IN DEVELOPMENT 🚀🚧
+  - :book: Full Stack Web Developer student @ <a href="https://www.cubos.academy/" target="_blank">Cubos Academy</a>  🚧 IN DEVELOPMENT 🚀🚧
+  - :book: Currently improving my development skills @ <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>  🚧 IN DEVELOPMENT 🚀🚧
   - :book: Improving my knowledge every day with hard work and practice 🚧 ALWAYS IN DEVELOPMENT 🚀🚧
   - :thought_balloon: Addicted to :coffee:, :computer:, :chocolate_bar: and 🎼.
   - :thought_balloon: I love :dog:, playing :video_game:, learning new things 🧠 and spending time with my :family:.
@@ -19,6 +19,8 @@
   
       > The important thing is to not stop questioning. Curiosity has its own reason for existing.
 
+<br />
+
 ## 🌱 I’m currently learning ... and working 🛠️ with
   - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red)
   - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
@@ -26,7 +28,6 @@
   - ![TypeScript](https://img.shields.io/badge/-TypeScript-purple) 
   - ![React](https://img.shields.io/badge/-React-ff69b4)
 
-<br />
 <br />
 <br />
 <br />
