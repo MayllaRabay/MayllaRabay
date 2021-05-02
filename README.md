@@ -8,12 +8,13 @@
 <br />
 
 ## About me :dragon:
-  - :book: Full Stack Web Developer student @ <a href="https://www.cubos.academy/" target="_blank">Cubos Academy</a>  🚧 IN DEVELOPMENT 🚀🚧
-  - :book: Currently improving my development skills @ <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>  🚧 IN DEVELOPMENT 🚀🚧
-  - :book: Improving my knowledge every day with hard work and practice 🚧 ALWAYS IN DEVELOPMENT 🚀🚧
-  - :thought_balloon: Addicted to :coffee:, :computer:, :chocolate_bar: and 🎼.
-  - :thought_balloon: I love :dog:, playing :video_game:, learning new things 🧠 and spending time with my :family:.
-  - :thought_balloon: I recently changed my operating system, I'm using Lubuntu, a project derived from the Linux:penguin:Ubuntu distribution, and I'm loving the open source concept!
+  - 📖 Full Stack Web Developer student at @ <a href="https://www.cubos.academy/" target="_blank">Cubos Academy</a>  🚧 IN DEVELOPMENT 🚀🚧
+  - 📖 Currently improving my development skills (Discover and NLW) @ <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>  🚧 IN DEVELOPMENT 🚀🚧
+  - 📖 Currently being mentored in the 'Code Like a POSSIBLE Girl' project, sponsored by [Se Candidate, Mulher!](https://www.linkedin.com/company/se-candidate-mulher/), [Elas Programam](https://www.linkedin.com/company/elasprogramam/) and [POSSIBLE](https://www.linkedin.com/company/possible-com/) 🚧 IN DEVELOPMENT 🚀🚧
+  - 📖 Improving my knowledge every day with hard work and practice 🚧 ALWAYS IN DEVELOPMENT 🚀🚧
+  - 💭 Addicted to ☕, 💻, 🍫 and 🎼.
+  - 💭 I love :dog:, playing 🎮, learning new things 🧠 and spending time with my 👪.
+  - 💭 I recently changed my operating system, I'm using Lubuntu, a project derived from the Linux🐧Ubuntu distribution, and I'm loving the open source concept!
   - ⚡ Fun fact: I can move my ears with the bare power of my mind 🤯!
   - ⚡ My favorite quote is:
   
@@ -28,7 +29,9 @@
   - ![TypeScript](https://img.shields.io/badge/-TypeScript-purple) 
   - ![React](https://img.shields.io/badge/-React-ff69b4)
 
-<br />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MayllaRabay&theme=dracula" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=MayllaRabay&show_icons=true&theme=dracula&line_height=27" />
+
 <br />
 <br />
 
