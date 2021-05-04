@@ -44,7 +44,8 @@
 
 Made with 💜 by Maylla Rabay
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MayllaRabay)](https://github.com/MayllaRabay)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MayllaRabay)](https://github.com/MayllaRabay)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayllarabay/)](https://www.linkedin.com/in/mayllarabay/) 
 [![Gmail Badge](https://img.shields.io/badge/-mayllarabay@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayllarabay@gmail.com)](mailto:mayllarabay@gmail.com)
+
 <img src="https://komarev.com/ghpvc/?username=MayllaRabay&label=Profile%20views&color=0e75b6&style=flat" />
