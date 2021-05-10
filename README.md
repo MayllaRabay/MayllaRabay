@@ -18,9 +18,13 @@
   - 💭 I love :dog:, playing 🎮, learning new things 🧠 and spending time with my 👪.
   - 💭 I recently changed my operating system, I'm using Lubuntu, a project derived from the Linux🐧Ubuntu distribution, and I'm loving the open source concept!
   - ⚡ Fun fact: I can move my ears with the bare power of my mind 🤯!
-  - ⚡ My favorite quote is:
+  - ⚡ My favorite quotes are:
   
-      > The important thing is to not stop questioning. Curiosity has its own reason for existing.
+      > The important thing is not to stop questioning. Curiosity has its own reason for existing.
+          - Albert Einstein
+
+      > Although no one can go back and make a new start, anyone can start now and make a new end.
+          - James R. Sherman
 
 <br />
 
@@ -32,7 +36,7 @@
   - ![React](https://img.shields.io/badge/-React-ff69b4)
 
 <a href="https://github.com/MayllaRabay">
-  <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=MayllaRabay&count_private=true&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&layout=compact&)" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=MayllaRabay&count_private=true&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&layout=compact&)" />
 </a>
 
 <a href="https://github.com/MayllaRabay">
