@@ -11,9 +11,9 @@
 
 ## About me 🐉
   - 📖 Full Stack Web Developer student at @ <a href="https://www.cubos.academy/" target="_blank">Cubos Academy</a>  🚧 IN DEVELOPMENT 🚀🚧
-  - 📖 Currently improving my development skills (Discover and NLW) @ <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>  🚧 IN DEVELOPMENT 🚀🚧
-  - 📖 Currently being mentored in the 'Code Like a POSSIBLE Girl' project, sponsored by <a href="https://www.linkedin.com/company/se-candidate-mulher/" target="_blank">Se Candidate, Mulher!</a>, <a href="https://www.linkedin.com/company/elasprogramam/" target="_blank">Elas Programam<a/> and [POSSIBLE](https://www.linkedin.com/company/possible-com/) 🚧 IN DEVELOPMENT 🚀🚧
+  - 📖 Currently improving my development skills (Discover and NLW) at @ <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>  🚧 IN DEVELOPMENT 🚀🚧
   - 📖 Improving my knowledge every day with hard work and practice 🚧 ALWAYS IN DEVELOPMENT 🚀🚧
+  - 📖 Was mentored in the 'Code Like a POSSIBLE Girl' project, a mentorship for women developers, sponsored by <a href="https://www.linkedin.com/company/se-candidate-mulher/" target="_blank">Se Candidate, Mulher!</a>, <a href="https://www.linkedin.com/company/elasprogramam/" target="_blank">Elas Programam<a/> and [POSSIBLE](https://www.linkedin.com/company/possible-com/)
   - 💭 Addicted to ☕, 💻, 🍫 and 🎼.
   - 💭 I love :dog:, playing 🎮, learning new things 🧠 and spending time with my 👪.
   - 💭 I recently changed my operating system, I'm using Lubuntu, a project derived from the Linux🐧Ubuntu distribution, and I'm loving the open source concept!
@@ -31,9 +31,9 @@
 ## 🌱 I’m currently learning ... and working 🛠️ with
   - ![HTML5](https://img.shields.io/badge/-HTML5-red)
   - ![CSS3](https://img.shields.io/badge/-CSS3-blue)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-orange)
-  - ![TypeScript](https://img.shields.io/badge/-TypeScript-purple) 
-  - ![React](https://img.shields.io/badge/-React-ff69b4)
+  - ![Javascript](https://img.shields.io/badge/-Javascript-orange) 
+  - ![ReactJS](https://img.shields.io/badge/-ReactJS-45D1FD)
+  - ![API Rest](https://img.shields.io/badge/-API%20Rest-purple)
 
 <a href="https://github.com/MayllaRabay">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=MayllaRabay&count_private=true&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&layout=compact&)" />
