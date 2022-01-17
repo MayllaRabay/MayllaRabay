@@ -10,10 +10,11 @@
 <br />
 
 ## Sobre mim 🐉
-  - 📖 Desenvolvedora Web Full Stack, formada na @ <a href="https://www.cubos.academy/" target="_blank">Cubos Academy</a> 🚀
+  - 📖 Desenvolvedora Web Full Stack, formada na @ <a href="https://www.cubos.academy/" target="_blank">Cubos Academy</a> em Setembro de 2021 🚀
   - 📖 Melhorando minhas habilidades (Discover and NLW) na @ <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>  🚧 EM ANDAMENTO 🚀🚧
   - 📖 Melhorando meu conhecimento a cada dia com muito trabalho e prática 🚧 SEMPRE EM ANDAMENTO 🚀🚧
-  - 📖 Participei do projeto 'Code Like a POSSIBLE Girl', uma mentoria para mulheres desenvolvedoras, patrocinado por <a href="https://www.linkedin.com/company/se-candidate-mulher/" target="_blank">Se Candidate, Mulher!</a>, <a href="https://www.linkedin.com/company/elasprogramam/" target="_blank">Elas Programam<a/> e [POSSIBLE](https://www.linkedin.com/company/possible-com/)
+  - 📖 Participei do projeto "Code Like a POSSIBLE Girl", uma mentoria para mulheres desenvolvedoras, patrocinado por <a href="https://www.linkedin.com/company/se-candidate-mulher/" target="_blank">Se Candidate, Mulher!</a>, <a href="https://www.linkedin.com/company/elasprogramam/" target="_blank">Elas Programam<a/> e [POSSIBLE](https://www.linkedin.com/company/possible-com/).
+  - 📖 Participei do projeto "EducaPetBR" por 2 meses e meio, uma aplicação mobile desenvolvida em Flutter, na empresa <a href="https://espressolabs.com.br/" target="_blank">Espresso Labs<a/>.
   - 💭 Sou viciada em ☕, 💻, 🍫 e 🎼.
   - 💭 Amo :dog:, jogar 🎮, aprender novas tecnologias 🧠 e passar um tempo com minha 👪.
   - 💭 Sou fã de Linux🐧 e amo o conceito de open source!
