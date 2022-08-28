@@ -31,11 +31,11 @@
 ## 🌱 Atualmente estou aprendendo ... e trabalhando 🛠️ com
   - ![HTML5](https://img.shields.io/badge/-HTML5-red)
   - ![CSS3](https://img.shields.io/badge/-CSS3-blue)
-  - ![Javascript](https://img.shields.io/badge/-Javascript-orange) 
+  - ![Javascript](https://img.shields.io/badge/-Javascript-orange)
+  - ![Typescript](https://img.shields.io/badge/-Typescript-blue)
   - ![ReactJS](https://img.shields.io/badge/-ReactJS-45D1FD)
   - ![API Rest](https://img.shields.io/badge/-API%20Rest-purple)
   - ![Node.js](https://img.shields.io/badge/-Node.js-green)
-  - ![Flutter](https://img.shields.io/badge/-Flutter-blue)
 
 <a href="https://github.com/MayllaRabay">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=MayllaRabay&count_private=true&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&layout=compact&)" />
