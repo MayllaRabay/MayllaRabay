@@ -1,6 +1,4 @@
 <img width="100%" src="./assets/images/banner.png" alt="Creat, innovate, inspire, code and test like a girl"/>
-<br />
-<br />
 
 # Hello World 👋 I'm Maylla Rabay
 
@@ -13,14 +11,14 @@
 
 <br />
 
-## Sobre mim 🐉
+## About me 🦊
 
-- 📖 Full Stack Web Developer, graduated from @<a href="https://www.cubos.academy/" target="_blank">Cubos Academy</a> in September 2021 🚀
-- 📖 Improving my skills (Discover and NLW) at @<a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a> 🚧 IN DEVELOP 🚀🚧
-- 📖 Improving my knowledge every day with hard work and practice 🚧 ALWAYS IN DEVELOP 🚀🚧
-- 📖 I participated in the "Code Like a POSSIBLE Girl" project, a mentorship for women developers, sponsored by <a href="https://www.linkedin.com/company/se-candidate-mulher/" target="_blank">Se Candidate, Mulher!</a>, <a href="https://www.linkedin.com/company/elasprogramam/" target="_blank">Elas Programam</a> and <a href="https://www.linkedin.com/company/possible-com/" target="_blank">POSSIBLE</a>.
-- 📖 I participated in the "EducaPetBR" project, a mobile application developed in Flutter, for 2 and a half months at <a href="https://espressolabs.com.br/" target="_blank">Espresso Labs</a>.
-- 📖 I'm currently working as a Junior Front-end Developer at <a href="https://www.estantemagica.com.br/" target="_blank">Estante Mágica</a>, the biggest reading and writing project in Brazil!
+- 📚 Full Stack Web Developer, graduated from @<a href="https://www.cubos.academy/" target="_blank">Cubos Academy</a> in September 2021 🚀
+- 📚 Improving my skills (Discover and NLW) at @<a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a> 🚧 IN DEVELOP 🚀🚧
+- 📚 Improving my knowledge every day with hard work and practice 🚧 ALWAYS IN DEVELOP 🚀🚧
+- 📚 I participated in the "Code Like a POSSIBLE Girl" project, a mentorship for women developers, sponsored by <a href="https://www.linkedin.com/company/se-candidate-mulher/" target="_blank">Se Candidate, Mulher!</a>, <a href="https://www.linkedin.com/company/elasprogramam/" target="_blank">Elas Programam</a> and <a href="https://www.linkedin.com/company/possible-com/" target="_blank">POSSIBLE</a>.
+- 📚 I participated in the "EducaPetBR" project, a mobile application developed in Flutter, for 2 and a half months at <a href="https://espressolabs.com.br/" target="_blank">Espresso Labs</a>.
+- 📚 I'm currently working as a Junior Front-end Developer at <a href="https://www.estantemagica.com.br/" target="_blank">Estante Mágica</a>, the biggest reading and writing project in Brazil!
 - 💭 I'm addicted to ☕, 💻, 🍫 and 🎼.
 - 💭 I love :dog:, playing 🎮, learning new technologies 🧠 and spending time with my 👪.
 - 💭 I am a fan of Linux🐧 and love the concept of open source!
@@ -35,8 +33,12 @@
 
 ## 🛠️ I am currently working with ...
 
-<img width="64px" src="./assets/icons/html-5.png" alt="html logo" title="HTML5"/>
-<img width="64px"  src="./assets/icons/css-3.png" alt="css logo" title="CSS3"/>
+<a href='https://developer.mozilla.org/pt-BR/docs/Web/HTML' target="_blank">
+  <img width="64px" src="./assets/icons/html-5.png" alt="html logo" title="HTML5"/>
+</a>
+<a href='https://developer.mozilla.org/pt-BR/docs/Web/CSS' target="_blank">
+  <img width="64px"  src="./assets/icons/css-3.png" alt="css logo" title="CSS3"/>
+</a>
 <a href='https://www.javascript.com/' target="_blank">
   <img width="64px" src="./assets/icons/js.png" alt="javascript logo" title="Javascript"/>
 </a>
@@ -63,19 +65,20 @@
 
 ## 🌱 And learning ...
 
-<a href=''>
+<a href='https://dart.dev/' target="_blank">
   <img width="64px" src="./assets/icons/dart.png" alt="dart logo" title="Dart"/>
 </a>
-<a href=''>
+<a href='https://flutter.dev/' target="_blank">
   <img width="64px" src="./assets/icons/flutter.png" alt="flutter logo" title="Flutter"/>
 </a>
-<a href=''>
-  <img width="64px" src="./assets/icons/sql-server.png" alt="sql-server logo" title="SQL"/>
+<a href='https://www.w3schools.com/sql/' target="_blank">
+  <img width="64px" src="./assets/icons/sql-server.png" alt="sql logo" title="SQL"/>
 </a>
-<a href=''>
+<a href='https://nodejs.org/en/' target="_blank">
   <img width="64px" src="./assets/icons/nodejs.png" alt="nodejs logo" title="Nodejs"/>
 </a>
 
+<br />
 <br />
 
 <a href="https://github.com/MayllaRabay">
