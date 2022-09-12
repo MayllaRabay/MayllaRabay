@@ -9,8 +9,6 @@
 ✔️ Or just exchange knowledge 💡<br />
 🚀 We always learn something when we teach 🚀<br />
 
-<br />
-
 ## About me 🦊
 
 - 📚 Full Stack Web Developer, graduated from @<a href="https://www.cubos.academy/" target="_blank">Cubos Academy</a> in September 2021 🚀
