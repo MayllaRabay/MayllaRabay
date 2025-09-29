@@ -7,7 +7,7 @@
 ## 🦊 About me
 
 - 📚 **Former mathematics teacher turned Front-End Developer**, with a strong foundation in logical thinking and problem-solving, and a passion for building web experiences that make a positive impact on people's lives.
-- 💼 **Worked for 3 years as a Front-end Developer** at <a href="https://www.estantemagica.com.br/" target="_blank">Estante Mágica</a>, the biggest reading and writing project in Brazil, where I designed, implemented, and maintained their main platform <a href="https://app.estantemagica.com.br/" target="_blank">app.estantemagica.com.br</a>.
+- 💼 **Worked for 3 years as a Front-end Developer** at <a href="https://www.estantemagica.com.br/" target="_blank">Estante Mágica</a>, the biggest reading and writing project in Brazil, where I designed, implemented, and maintained their <a href="https://escolas.estantemagica.com.br/login" target="_blank">main platform</a>.
 - 📱 **Contributed for 3 months** to the development of the "EducaPetBR" mobile application in Flutter at <a href="https://espressolabs.com.br/" target="_blank">Espresso Labs</a>, focusing on specific features such as profile options and the flow for adding pets.
 - 🌟 **Mentorships & Projects:** Participated in the "Code Like a POSSIBLE Girl" project for women developers, sponsored by <a href="https://www.linkedin.com/company/se-candidate-mulher/" target="_blank">Se Candidate, Mulher!</a>, <a href="https://www.linkedin.com/company/elasprogramam/" target="_blank">Elas Programam</a> and <a href="https://www.linkedin.com/company/possible-com/" target="_blank">POSSIBLE</a>.
 - 🎓 Graduated from <a href="https://www.cubos.academy/" target="_blank">Cubos Academy</a>.
@@ -22,7 +22,7 @@
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,linux,arch,nextjs,tailwind,graphql,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,linux,arch,nextjs,graphql,tailwind,jest)](https://skillicons.dev)
 
 - **HTML5** – Building semantic and accessible web pages.
 - **CSS3** – Styling responsive and clean interfaces.
